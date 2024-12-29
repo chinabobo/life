@@ -1,8 +1,38 @@
 @Herbert's life
 ===============
 
-- 21/12/1997 Born
-- ~2019 Summer job
-- 06/2016 Be admitted to university
-- 01/04/2020 First job
-- 04/2016-2020 Whole bunch of interesting events
+- **21/12/1997-07/2020** Xian, Shaanxi, CN
+- **07/2020-11/2024** ShenZhen, Guangdong, CN
+- **11/2024-~** Beijing, CN
+- 21/12/1997 Born in Yanta District, Xi'an City Shaanxi Province
+- 21/12/1997-06/1999 Busy being a baby
+- 06/1999-06/2004 Kindergarten
+- 09/2004-06/2010 Primary Education in Da Yanta Primary School
+- 09/2010-06/2013 Junior high school in [Xi'an 1st Railway Middle School](https://www.xatyz.com/)
+- 06/2013-06/2016 Senior high school in [Xi'an Middle School of Shaanxi Procince](http://www.xazx.cn/)
+- 09/2016-07/2020 Be admitted to [Xidian University](https://www.xidian.edu.cn/)
+- **07/2020-09/2021** First full-time job as a backend software developer at [TP-Link](https://www.tp-link.com/us/) 
+- 08/2020 Learn Git / Jav
+- 29/08/2020 Trip to dapeng
+- 20/03/2021 Dongxi Chong Hiking Crossing
+- **09/2021-03/2024** Work as Software Developer at [Apulis](https://apulis.cn/)
+- 12/2021 Started Using Twitter
+- 08/01/2022 skiing in Guangzhou
+- 30/01/2022 Roast Lamb Leg with apulis workmate
+- 01/05/2022-06/05/2022 Trip to Macau
+- 23/07/2022 Trip to Qingyuan with jie
+- 05/08/2022 Attend Quanxin's wedding at Xian
+- 06/08/2022 Create the first web site [Herbert's Blog](https://herbertyan.netlify.app/)
+- 19/08/2022-21/08/2022 Trip to Hailing Island with wangxin, zhenqin, xiaoying
+- 31/12/2022-02/01/2023 Trip to Judiao Sha
+- 14/01/2023-16/01/2023 Trip to Shantou
+- 18/02/2023-19/02/2023 Trip to Shanwei
+- 04/03/2023-05/03/2023 Trip to Hongkong
+- 10/03/2023-12/03/2023 Trip to Wuhan with xin
+- 29/04/2023-03/05/2023 Trip to Xiamen
+- 01/10/2023-06/10/2023 Trip to Malaysia
+- 09/06/2023-11/06/2023 Traveling in Shenzhen with my mother and aunt
+- **18/01/2024-09/10/2024** Senior engineer in Lightleap.com
+- 01/05/2024-05/05/2024 Trip to Jeju
+- 01/10/2024-06/10/2024 Trip to Vietnam
+- **21/11/2024-~** Joined [Didi](https://web.didiglobal.com/)
