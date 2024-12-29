@@ -4,7 +4,6 @@
 - 21/12/1997-07/2020 Xian, Shaanxi, CN
 - 07/2020-11/2024 ShenZhen, Guangdong, CN
 - 11/2024-~ Beijing, CN
-- 
 - 21/12/1997 Born in Yanta District, Xi'an City Shaanxi Province
 - 21/12/1997-06/1999 Busy being a baby
 - 06/1999-06/2004 Kindergarten
@@ -12,14 +11,12 @@
 - 09/2010-06/2013 Junior high school in [Xi'an 1st Railway Middle School](https://www.xatyz.com/)
 - 06/2013-06/2016 Senior high school in [Xi'an Middle School of Shaanxi Procince](http://www.xazx.cn/)
 - 09/2016-07/2020 Be admitted to [Xidian University](https://www.xidian.edu.cn/)
-- 
 - 07/2020-09/2021 First full-time job as a backend software developer at [TP-Link](https://www.tp-link.com/us/) 
 - 08/2020 Learn Git / Jav
 - 29/08/2020 Trip to dapeng
 - 20/03/2021 Dongxi Chong Hiking Crossing
-- 
 - 09/2021-03/2024 Work as Software Developer at [Apulis](https://apulis.cn/)
-- 12/2021 Started Using Twitter
+- 10/12/2021 Started Using Twitter
 - 08/01/2022 skiing in Guangzhou
 - 30/01/2022 Roast Lamb Leg with apulis workmate
 - 01/05/2022-06/05/2022 Trip to Macau
@@ -35,7 +32,6 @@
 - 29/04/2023-03/05/2023 Trip to Xiamen
 - 01/10/2023-06/10/2023 Trip to Malaysia
 - 09/06/2023-11/06/2023 Traveling in Shenzhen with my mother and aunt
-- 
 - 18/01/2024-09/10/2024 Senior engineer in Lightleap.com
 - 01/05/2024-05/05/2024 Trip to Jeju
 - 01/10/2024-06/10/2024 Trip to Vietnam
