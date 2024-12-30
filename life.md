@@ -13,29 +13,36 @@
 - 09/2016-07/2020 Be admitted to [Xidian University](https://www.xidian.edu.cn/)
 - 07/2020-09/2021 First full-time job as a backend software developer at [TP-Link](https://www.tp-link.com/us/) 
 - 08/2020 Learn Git / Java
-- 29/08/2020 Trip to dapeng
+- 18/07/2020 Trip to Shenzhen Bay
+- 29/08/2020 Trip to Dapeng
+- 01/01/2020-03/01/2020 Guangzhou hot spring
 - 20/03/2021 Dongxi Chong Hiking Crossing
+- 09/04/2021-10/04/2021 Trip to Huizhou, CN
+- 01/05/2021-06/05/2021 Trip to Macau
+- 04/06/2021-05/06/2021 Trip to Nan'ao Island
+- 11/06/2021-13/06/2021 Trip to Shantou, CN
+- 23/07/2021-24/07/2021 Trip to Guangzhou, CN with Long
 - 09/2021-03/2024 Work as Software Developer at [Apulis](https://apulis.cn/)
 - 10/12/2021 Started Using Twitter
-- 08/01/2022 skiing at Guangzhou
+- 08/01/2022 skiing at Guangzhou, CN
 - 30/01/2022 Roast Lamb Leg with apulis workmate
 - 01/05/2022-06/05/2022 Trip to Macau
 - 23/07/2022 Trip to Qingyuan with jie
 - 05/08/2022 Attend Quanxin's wedding at Xian
 - 06/08/2022 Create the first web site [Herbert's Blog](https://herbertyan.netlify.app/)
 - 19/08/2022-21/08/2022 Trip to Hailing Island with wangxin, zhenqin, xiaoying
-- 31/12/2022-02/01/2023 Trip to Judiao Sha
-- 14/01/2023-16/01/2023 Trip to Shantou
-- 18/02/2023-19/02/2023 Trip to Shanwei
+- 17/12/2022-18/12/2022 Trip to Foshan eat Shunde Yusheng
+- 31/12/2022-02/01/2023 Trip to Judiao Sha, CN
+- 14/01/2023-16/01/2023 Trip to Shantou Nan'ao Island, CN
+- 18/02/2023-19/02/2023 Trip to Shanwei, CN
 - 04/03/2023-05/03/2023 Trip to Hongkong
 - 10/03/2023-12/03/2023 Trip to Wuhan with xin
-- 29/04/2023-03/05/2023 Trip to Xiamen
-- 01/10/2023-06/10/2023 Trip to Malaysia
-- 09/06/2023-11/06/2023 Traveling in Shenzhen with my mother and aunt
+- 29/04/2023-03/05/2023 Trip to Xiamen, CN
+- 01/10/2023-06/10/2023 Trip to Bangkok and Pattaya, Thailand and Kuala Lumpur, Malaysia
 - 06/01/2024 First MacBook Pro M3 chip
 - 18/01/2024-09/10/2024 Senior engineer in Lightleap.com
 - 19/01/2024 skiing at Guangzhou
 - 24/03/2024 Trip to Tanglang mountain
-- 01/05/2024-05/05/2024 Trip to Jeju
-- 01/10/2024-06/10/2024 Trip to Vietnam
+- 01/05/2024-05/05/2024 Trip to Jeju Island, South Korea
+- 01/10/2024-06/10/2024 Trip to Da Nang and Hanoi, Vietnam
 - 21/11/2024-~ Joined [Didi](https://web.didiglobal.com/)
