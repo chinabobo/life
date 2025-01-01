@@ -16,7 +16,7 @@
 - 08/2020 Learn Git / Java
 - 18/07/2020 Trip to Shenzhen Bay
 - 29/08/2020 Trip to Dapeng
-- 01/01/2020-03/01/2020 Guangzhou hot spring
+- 01/01/2021-03/01/2021 Guangzhou hot spring
 - 20/03/2021 Dongxi Chong Hiking Crossing
 - 09/04/2021-10/04/2021 Trip to Huizhou, CN
 - 01/05/2021-06/05/2021 Trip to Macau
