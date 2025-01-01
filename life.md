@@ -11,6 +11,7 @@
 - 09/2010-06/2013 Junior high school in [Xi'an 1st Railway Middle School](https://www.xatyz.com/)
 - 06/2013-06/2016 Senior high school in [Xi'an Middle School of Shaanxi Procince](http://www.xazx.cn/)
 - 09/2016-07/2020 Be admitted to [Xidian University](https://www.xidian.edu.cn/)
+- 10/11/2016 Created [Github account](https://github.com/chinabobo)
 - 07/2020-09/2021 First full-time job as a backend software developer at [TP-Link](https://www.tp-link.com/us/) 
 - 08/2020 Learn Git / Java
 - 18/07/2020 Trip to Shenzhen Bay
@@ -19,6 +20,7 @@
 - 20/03/2021 Dongxi Chong Hiking Crossing
 - 09/04/2021-10/04/2021 Trip to Huizhou, CN
 - 01/05/2021-06/05/2021 Trip to Macau
+- 29/05/2021 First played Hold'em Poker at SunDongfang's birthday
 - 04/06/2021-05/06/2021 Trip to Nan'ao Island
 - 11/06/2021-13/06/2021 Trip to Shantou, CN
 - 23/07/2021-24/07/2021 Trip to Guangzhou, CN with Long
